@@ -1,7 +1,10 @@
-Recriando a lógica do carrinho de compras da Shopee
+<h1>Recriando a lógica do carrinho de compras da Shopee
 
-Javascript 
-Node | Básico
-Modularização | Básica
+<h2>Conhecimento praticado
+  
+<h4>
+<li>Javascript | Intermediário 
+<li>Node | Básico
+<li>Modularização | Básica
 
 
